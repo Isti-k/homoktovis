@@ -1,6 +1,6 @@
 body{
   padding: 15px;
-  background-image: url("hatter.png");
+  background-image: url("forrasHomoktovis/hatter.png");
 }
 
 h1{
@@ -8,6 +8,7 @@ h1{
   font-size: 222%;
   margin: 0px 0px 10px;
 }
+
 h1,h2{
   color: #eb7100;
   text-transform: uppercase;
@@ -64,12 +65,11 @@ li{
 .blokktores{
   clear: both;
 }
+
 #bevezeto{
   width: 600px;
 }
+
 li{
-  list-style-image: url("bogyo.png");
-}
-#termes{
-  
+  list-style-image: url("forrasHomoktovis/bogyo.png");
 }
